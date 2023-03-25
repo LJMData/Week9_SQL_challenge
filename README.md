@@ -46,7 +46,7 @@ SELECT * FROM employees;
 ```
 Step 3: Data Analysis 
 
-A list of questions was provided to and queries were written to query the tables. As not all the infomration was provided in the same table some joins were used. 
+A list of questions was provided to and queries were written to query the tables. As not all the information was provided in the same table some joins were used. 
 
 ```ruby 
 -- List the department number for each employee along with that employee’s employee number, last name, first name, and department name
