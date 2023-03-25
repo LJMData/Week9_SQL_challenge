@@ -1,4 +1,4 @@
-## sql-challenge
+## SQL-Challenge
 
 # Context
 
@@ -45,6 +45,7 @@ ALTER TABLE employees RENAME COLUMN birth_date_2 TO birth_date;
 SELECT * FROM employees;
 ```
 Step 3: Data Analysis 
+
 A list of questions was provided to and queries were written to query the tables. As not all the infomration was provided in the same table some joins were used. 
 
 ```ruby 
